@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Season of Us
 
 Season of Us follows two high school students who fall in love in Grade 8. At first, their relationship is happy, and they believe they will stay together for a long time.
@@ -11,3 +12,6 @@ However, during the examinations, the two are seated next to each other. The gir
 After Grade 10, they move to another school for further studies. They hope this will be a fresh beginning, but their relationship faces another problem. The girl develops feelings for another boy and betrays him again.
 
 The boy is left heartbroken, realizing that the person he loved has chosen someone else once again. As their lives move forward, he must face the painful reality that sometimes love alone is not enough to keep two people together.
+=======
+# Not Based on Someone's Life
+>>>>>>> e237f0a70e8b99fba69aab5c2eea9424927f209f
