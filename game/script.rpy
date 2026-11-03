@@ -7,13 +7,13 @@ define r = Character("Rohan", color="#58D68D")
 
 # Importing the background images
 
-image bg bedroom = "images/backgrounds/bedroom.jpg"
-image bg classroom = "images/backgrounds/classroom.jpg"
-image bg examhall= "images/backgrounds/examhall.jpg"
-image bg school = "images/backgrounds/school.jpg"
-image bg schoolyard = "images/backgrounds/schoolyard.jpg"
-image bg hallway = "images/backgrounds/school_hallway_night.jpg"
-image bg sunset = "images/backgrounds/sunset.jpg"
+image bg school = im.Scale("images/backgrounds/school.jpg", 1920, 1080)
+image bg classroom = im.Scale("images/backgrounds/classroom.jpg", 1920, 1080)
+image bg examhall = im.Scale("images/backgrounds/examhall.jpg", 1920, 1080)
+image bg schoolyard = im.Scale("images/backgrounds/schoolyard.jpg", 1920, 1080)
+image bg hallway = im.Scale("images/backgrounds/school_hallway_night.jpg", 1920, 1080)
+image bg sunset = im.Scale("images/backgrounds/sunset.jpg", 1920, 1080)
+image bg bedroom = im.Scale("images/backgrounds/bedroom.jpg", 1920, 1080)
 
 
 # Importing the character images of AARAV the goat who is gonna be heartbroken in cheating mode
@@ -71,7 +71,7 @@ transform right:
 
 label start:
     
-    scene school 
+    scene bg school 
     with fade
 
     pause 1.0
@@ -129,7 +129,7 @@ label start:
     hide rohann
     with dissolve
 
-    scene schoolyard
+    scene bg schoolyard
 
     show aarav normal at left 
     show sia norm smile at center
