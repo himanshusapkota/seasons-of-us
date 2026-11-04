@@ -150,6 +150,229 @@ label start:
     "And she was right"
     "Before the story begins, choose how you want to play"
 
+menu:
+    "Normal Mode":
+        jump normal_mode
+
+    "Cheating Mode":
+        jump cheating_mode
+
+
+label normal_mode:
+    scene bg school
+    with fade
+    "Grade 8."
+    "The first day of a new school year"
+    "New Books"
+    "Old Teachers Some Might be New too"
+    "New Classmates"
+    "And for aarav another year of trying not to get in trouble"
+
+    show aarav normal
+    with dissolve
+
+    a "I really should have stayed in bed"
+    "Aarav Looked around classroom"
+    "Most of the student were already talking with their friends"
+    "some were comparing the timetables"
+    "some were complaining about new teachers."
+    "and some topper were already disscusing about the homework"
+
+    a "First day and people already talking about the homework"
+    a "How am i supposed to fit with them????"
+
+    scene bg classroom
+
+    show sia playful_smile at left
+    with dissolve
+
+    show aarav normal blush at right
+    with dissolve 
+
+    s "Heyy"
+    a "Heyyy"
+    s "Is that seat taken?"
+    a "Nahh"
+    s "Good!!"
+
+    "Sia Sat Down"
+    a "You are new"
+    s "Kind off"
+    s "I was in other section last year"
+    a "Ohhh"
+    s "You are aarav right?"
+    a "Ahh yep i am"
+    s "I heard you are good at maths"
+    a "Who told you that?"
+    s "Someone"
+    a "Thats Sus!!"
+    s "Whyyyyy?"
+    a "Because i am not"
+    s "So you were lying to everyone"
+    a "Apparently"
+
+    show sia norm smile
+    with dissolve
+
+    "Sia Laughed"
+    "Aarav smiled without realizing it"
+
+    "The first few weeks passed quickly."
+
+    "Aarav and Sia started talking more."
+
+    "At first, it was only about school."
+    "Then homework."
+    "Then teachers."
+    "Then friends."
+    "Then completely random things."
+
+    show aarav normal blush
+    show sia norm smile at right 
+    with dissolve 
+
+    s "What is your favorite subject?"
+    a "Computer?"
+    s "Really"
+    a "Yeah"
+    s "I thought you'd say maths"
+    a "Why?"
+    s "You look like someone who like maths..."
+    a "What does a maths person look like?"
+    s "I really don't know"
+    a "Exactly"
+    s "Okey Fine"
+    a "What's yours?"
+    s "English"
+    a "That make a sense"
+    s "Why?"
+    a "You talk a lott"
+    s "Thats not related , Aarav"
+    a "Definately it is"
+    s "You are annoying"
+    a "You have said that before"
+    s "yeahh I will keep saying this"
+
+
+    scene bg schoolyard
+    with fade 
+
+    "During lunch breaks they often sat together"
+    "Sometime their freinds joined them"
+    "Sometime it was just two of them"
+
+    show aarav happy 
+    show sia mischievous at right 
+    with dissolve 
+
+    s "I can bet you can't finish this before me"
+    a "Finish what?"
+    s "Your food"
+    a "That's not a competition."
+    s "Everything is competition"
+    a "You are weird"
+    s "And you are slow"
+    a "Watch me"
+
+    "Aarav Started Eating lot faster than before"
+
+    s "Wait Seriously"
+    a "You challanged me"
+    s "I didn't thought you will actually do this"
+    s "Craxy mann"
+    a "Tooo late"
+
+    "sia started laughing"
+    "Aarav laughed too"
+
+    "They didnot noticed how quickly they were becoming soo close"
+
+    scene bg classroom
+    with fade
+
+    "One afternoon, Sia stayed behind after class "
+
+    show sia sad blush
+    with disslove 
+
+    a "You are still here"
+    s "Yeah"
+    a "Everythinh okey?"
+    s "yeahhh"
+    a "You donot look okey today"
+    s "I am just tired"
+    a "Want to talk?"
+    s "maybeee"
+    "Aarav Sit beside her"
+    s "Sometime I feel like everyone excepts too much"
+    a "School?"
+    s "School. Parents Everything"
+    a "Yeahhh"
+    s "You ever feel like that"
+    a "Sometimes"
+    s "What do you do?"
+    a "Usually?"
+    s "yeah"
+    a "I complain"
+    s "Thats your solution"
+    a "Actually it works"
+
+    "Sia laughed silently"
+
+    s "Thanksss"
+    a "For what?"
+    s "Just listening..."
+    a "Anytime"
+
+    scene bg sunset
+    with fade
+    "That evening. Aarav Realised Something"
+    "He didn't just enjoy talking with sia"
+    "He cared about her"
+    "More than he expected"
+
+    show aarav normal blush
+    with dissolve
+
+    a "I think I like her"
+    "He immediately regretted saying it loud"
+    a "Great"
+    a "Now i will be talking with myself"
+
+    
+
+    
+
+    
+
+
+
+
+
+
+
+
+
+    
+
+    
+
+
+
+
+    
+
+
+
+
+
+
+
+
+
+
+    
+    
    
 
 
