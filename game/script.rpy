@@ -413,4 +413,251 @@ label normal_mode:
     scene bg schoolyard
     with fade
 
+    show sia playful_smile
+    show aarav normal at left
+    with dissolve 
+
+    s "Guess what?"
+    a "What?"
+    s "I got the highest marks in science"
+    a "Seriously"
+    s "Yep"
+    a "I thought i was going to beat you"
+    s "Your thinking is wrong aaravvv"
+    a "Next exam"
+    s "Deal"
+    a "yeshhh"
+
+    "Their competition became one of their favorite things"
+    "Neither wanted the other to fail."
+    "They simply wanna push each other"
+
+    scene bg classroom
+    "Class 10 arrived"
+    "Everything suddenly felt more serious"
+    "Board exam were getting closer"
+    "Teacher gave more homework"
+    "Everyone talked about the marks"
+
+    show aarav upset
+    show sia annoyed at right
+    with dissolve
+
+    a "I don't understand this chapter"
+    s "You haven't even tried"
+    a "I did"
+    s "For 5 minutes"
+    a "I am still trying"
+    s "Give me your notebook"
+    a "Whyy?"
+    s "I will explain it"
+    a "You are saving me again"
+    s "Someone has to"
+
+    "They studied together almost every day"
+    "Sometimes they understood everything"
+    "Sometime they understood nothing"
+    "Sometimes they understood nothing"
+    "Sometime they spent 20 minutes instead of studiyng"
+
+    show sia mischievous
+    with dissolve 
+
+    s "We have been studying for an hout"
+    a "We studied for 10 minutes"
+    s "The rest was discussion"
+    a "About snacks"
+    s "Important discussion"
+    a "Very important"
+
+    scene bg bedroom
+    with fade
+
+    "The night before the exams were different"
+    "There were few jokes"
+    "More books"
+    "More Pressure"
+
+    show aarav normal
+    with dissolve
+
+    a "Are you still awake?"
+    s "yeah"
+    a "You should sleep"
+    s "You too"
+    a "This is time I mean it"
+    s "Sure"
+    a "Good Luck tomorrow"
+    s "Good Luck"
+    
+    scene bg examhall
+    with dissolve
+
+    "the exam day finally arrives"
+    "Aarav Sat Down"
+    "Sia Set nearby"
+
+    show sia nervous
+    with fade
+
+    s "nervous"
+    a "Ahh Little"
+    s "You will do it fine"
+    a "You too"
+    "The teacher handed out the papers"
+    "The room became silent"
+    "Aarav looked into the first question"
+
+    a "Okey Lets Do this"
+    "for next three hours there was nothing except the sound of pens"
+    "When The exam ended, everyone walked outside"
+    "Like The Day The 7 exam passed"
+
+    scene bg school
+    with fade
+
+    show aarav happy
+    show sia playful smile left
+    with dissolve
+
+    s "How were the exams?"
+    a "Better than i expected.."
+    s "Same"
+    a "Think you will beat me"
+    s "Definately"
+    a "We will see"
+
+    scene bg sunset
+    with fade
+    "The Result came"
+    "Aarav had the first place"
+    "Sia had the second place"
+
   
+    show aarav happy
+    show sia playful smile at right
+    with dissolve
+
+    s "Congratulations"
+    a "Youu too"
+    s "You finally beat me"
+    a "Finally"
+    s "Dont get too proud"
+    a "too late"
+    
+    "Both knew that grade 10 was ending soon they would have to leave"
+
+    scene bg schoolyard
+    with fade
+
+    show aarav normal
+    show sia sad blush at right
+    with dissolve
+
+    s "I am going to miss this place"
+    a "mee too"
+    s "Even teachers?"
+    a "Maybe not that much"
+    s "I knew it"
+    a "What about you"
+    s "I will miss the people"
+    a "me?"
+    s "Specially you"
+    a "Good Answer"
+    s "Idiot"
+    "They Smiled"
+
+    "They Knew things were going to change "
+    "But they didnot want change to mean goodbye"
+
+    scene bg sunset
+    with fade
+
+    "After class 10 life became busier"
+    "Different classes"
+    "Different schedules"
+    "Different responsibilities"
+    "But aarav and sia stayed together"
+    "They called each other"
+    "They Studied together whenever they could"
+    "They celebrated each others achievements"
+    "They argued sometimes"
+    "Then they made up"
+    "They were growing up"
+    "And they were doing together"
+
+    scene bg school
+    with fade
+
+    "year passed"
+    "School became college"
+    "Their lives became bigger than the classroom where they first meet."
+    "But whenever they talked about the past"
+    "They would come back to class 8th."
+
+    show aarav happy
+    show sia norm smile
+    with fade
+
+    a "Do you remember the seat?"
+    s "Which Seat?"
+    a "The one you stole"
+    s "It was mine"
+    a "There wasnot name on it"
+    s "There should have been"
+    a "You still say that?"
+    s "Forever"
+    a "Fair enough"
+    "Aarav Smiled"
+    a "I am glad you stole"
+    s "Why?"
+    a "because otherwise"
+    a "We might never talked"
+    s "Maybe"
+    a "And that would have been terrible"
+    s "very"
+
+    scene bg sunset
+    with fade
+
+    "Years Later"
+    "aarav stood beside sia"
+
+    show aarav happy
+    show sia norm smile at right
+    with dissolve
+
+    a "Ready?"
+    s "I have been ready for a long time"
+    a "Nervous?"
+    s "A Little"
+    a "mee too"
+    s "Then dont mess it up"
+    a "I wont"
+
+    "The two people who had met over a school chair years ago were now begginning another chapter of their lives."
+    "They had grown together"
+    "They had supported each other"
+    "They had chosen each other"
+    "And after all those years"
+    "They are still choosing each other"
+
+    scene bg sunset
+    with fade
+
+    "Sometimes the best stories arent about finding the perfect person."
+    "They are about growing with someone"
+    "Learning"
+    "Forgiving"
+    "Laughing"
+    "And staying when the life becomes diffcult"
+    "Aarav and sia started in a classroom"
+    "But it didnot end there"
+    "It became a lifetime"
+    "The End!!"
+
+
+    "Normal mode Finished"
+    return
+
+
