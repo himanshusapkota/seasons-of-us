@@ -36,12 +36,12 @@ image aarav annoyed = "images/aarav/aarav_school_angry.png"
 
 image sia angry = "images/sia/sia angry.png"
 image sia annoyed = "images/sia/sia annoyed.png"
-image sia blush angr = "images/sia/sia blush_angry.png"
+image sia blush angry = "images/sia/sia blush_angry.png"
 image sia blushing cry = "images/sia/sia blushing_cry.png"
 image sia confused = "images/sia/sia confused.png"
 image sia dark distant = "images/sia/sia dark_distant.png"
 image sia dark sad = "images/sia/sia dark_sad.png"
-image sia mischievous = "images/sia/sia mischeievous.png"
+image sia mischievous = "images/sia/sia mischievous.png"
 image sia norm smile = "images/sia/sia norm_smile.png"
 image sia oh = "images/sia/sia oh.png"
 image sia playful smile = "images/sia/sia playful_smile.png"
@@ -297,7 +297,8 @@ label normal_mode:
 
     "One afternoon, Sia stayed behind after class."
 
-    show sia sad blush
+    show aarav normal at left
+    show sia sad blush at right
     with dissolve
 
     a "You are still here?"
@@ -413,9 +414,9 @@ label normal_mode:
     scene bg schoolyard
     with fade
 
-    show sia playful_smile
+    show sia playful smile at right
     show aarav normal at left
-    with dissolve 
+    with dissolve
 
     s "Guess what?"
     a "What?"
@@ -439,7 +440,7 @@ label normal_mode:
     "Teacher gave more homework"
     "Everyone talked about the marks"
 
-    show aarav upset
+    show aarav upset at left
     show sia annoyed at right
     with dissolve
 
@@ -461,7 +462,7 @@ label normal_mode:
     "Sometime they spent 20 minutes instead of studiyng"
 
     show sia mischievous
-    with dissolve 
+    with dissolve
 
     s "We have been studying for an hout"
     a "We studied for 10 minutes"
@@ -478,7 +479,8 @@ label normal_mode:
     "More books"
     "More Pressure"
 
-    show aarav normal
+    show aarav normal at left
+    show sia norm smile at right
     with dissolve
 
     a "Are you still awake?"
@@ -489,15 +491,16 @@ label normal_mode:
     s "Sure"
     a "Good Luck tomorrow"
     s "Good Luck"
-    
+
     scene bg examhall
+    show aarav normal at left
     with dissolve
 
     "the exam day finally arrives"
     "Aarav Sat Down"
     "Sia Set nearby"
 
-    show sia nervous
+    show sia confused at right
     with fade
 
     s "nervous"
@@ -516,8 +519,8 @@ label normal_mode:
     scene bg school
     with fade
 
-    show aarav happy
-    show sia playful smile left
+    show aarav happy at left
+    show sia playful smile at right
     with dissolve
 
     s "How were the exams?"
@@ -533,8 +536,8 @@ label normal_mode:
     "Aarav had the first place"
     "Sia had the second place"
 
-  
-    show aarav happy
+
+    show aarav happy at left
     show sia playful smile at right
     with dissolve
 
@@ -544,13 +547,13 @@ label normal_mode:
     a "Finally"
     s "Dont get too proud"
     a "too late"
-    
+
     "Both knew that grade 10 was ending soon they would have to leave"
 
     scene bg schoolyard
     with fade
 
-    show aarav normal
+    show aarav normal at left
     show sia sad blush at right
     with dissolve
 
@@ -595,8 +598,8 @@ label normal_mode:
     "But whenever they talked about the past"
     "They would come back to class 8th."
 
-    show aarav happy
-    show sia norm smile
+    show aarav happy at left
+    show sia norm smile at right
     with fade
 
     a "Do you remember the seat?"
@@ -623,7 +626,7 @@ label normal_mode:
     "Years Later"
     "aarav stood beside sia"
 
-    show aarav happy
+    show aarav happy at left
     show sia norm smile at right
     with dissolve
 
@@ -659,5 +662,3 @@ label normal_mode:
 
     "Normal mode Finished"
     return
-
-
