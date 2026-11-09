@@ -662,3 +662,64 @@ label normal_mode:
 
     "Normal mode Finished"
     return
+
+label cheating_mode:
+
+    scene bg school
+    with fade 
+
+    "The classroom was louder than usual"
+    show aarav normal at left 
+    a "I should have stayed home"
+    show sia norm smile at right
+    s "Why?"
+    a "Too many people "
+    s "You are one of the people "
+    a "Exactly"
+    s "I am Sia"
+    a "Aarav"
+    s "I know "
+    a "Everyone knows my name apprently"
+    s "The teacher does"
+    a "Thats Different"
+    s "Not really"
+
+    scene bg classroom 
+    with dissolve 
+    show aarav clueless at left 
+    show sia norm smile at right 
+    s "Did you understand today's lesson?"
+    a "No"
+    s "Honest"
+    a "yesh"
+    s "Want my notes"
+    a "yes"
+    s "Then you owe me"
+    a "What do I owe you?"
+    s "A snack"
+    a "Thats Expensive"
+    s "Then Study harder"
+    a "Deal"
+
+    scene bg schoolyard
+    with dissolve 
+
+    show aarav happy at right 
+    show sia playful smile at left 
+    a "here"
+    s "whats that"
+    a "your snack"
+    s "you actually remembered"
+    a "I remember the important things"
+    a "Am I important"
+    a "Maybe "
+    s "Maybe?"
+    a "Dont get excited"
+    s "too late "
+
+    "They laughed"
+    
+
+
+
+
