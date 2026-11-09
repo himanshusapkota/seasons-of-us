@@ -798,6 +798,160 @@ label cheating_mode:
 
 
             # Story of class 9
+            #Rohan is gonna Join the story
+
+            scene bg school
+            with fade 
+
+            "One year later.... Grade 9 began with new subjects , new classmates, and and few new problems."
+
+            scene bg classroom 
+            with dissolve 
+            
+            show aarav happy at left 
+            show sia norm smile at right 
+            with dissolve 
+            a "Finally a new year"
+            s "And More Homeworks"
+            a "Don't ruin the moment"
+            s "I am Just being realistic"
+
+            show rohan normal talking at center
+            with dissolve 
+            r "heyy you two"
+            a "oh, hey rohan"
+            s "You are in our class this year?"
+            r "Looks like it"
+            a "Good Luck Surviving"
+            r "I think i will be fine "
+            s "That's what everyone says"
+            
+            "Rohan Quickly became the part of their group, everything felt normal."
+            "Suddenly the group of 2 became the group of 3"
+            "Aarav was afraid of loosing sia"
+
+
+            scene bg schoolyard
+            with fade
+            show aarav normal at left 
+            show sia playful smile at center 
+            show rohan happy at right 
+            with dissolve 
+            r "You both always sit together"
+            a "Preety Much"
+            a "She is basically my permanent class patner."
+            s "And he is my unpaid homework assistant"
+            r "Sounds like a great deal"
+            a "For her, Maybe"
+
+            menu:
+                "Joke about Rohan joining your group":
+                    a "Don't worry, Rohan. We might let you sit you with us."
+                    r "How generous"
+                    s "Only if you bring snacks "
+                    r "I knew there would be conditions."
+
+                "Ask Rohan what he thinks of the class?":
+                    a "So, what do you think of our class?"
+                    r "It's alright. People are friendly."
+                    s "And the teachers?"
+                    r "I will need more time to judge them..."
+                    a "Fair answer."
+
+            scene bg classroom
+            with fade    
+            "As the week passed , Aarav Noticed that Sia and Rohan were talking more."
+            "It did not seem strange at first. They were friends , after all."
+            show aarav normal at left
+            show sia norm smile at right 
+            with dissolve 
+            a "Are you coming to library after class?"
+            s "Maybe. I have something to do"
+            a "What thing?"
+            s "Just Something...."
+            a "Okey"
+
+            "Sia Quickly Changed the topic"
+
+            menu:
+                "Ask sia if something was wrong":
+                    a "You seem a little different lately. Is everything okey?"
+                    s "Yeah Aarav. I am Just Busy"
+                    a "If something is bothering you , you can tell me."
+                    s "I know , Thankyou"
+                    "She smiled but aarav felt that something was left unsaid."
+
+                "Give her some space":
+                    a "Okey. Message me when you are free."    
+                    s "I will"
+
+                    "Aarav Decides not to overthink it."
+
+                "Ask of rohan is the reason":
+                    a "Is this about Rohan?"    
+                    s "What? No"
+                    a "I was just asking.."
+                    s "Please don't make this weird"
+
+                    "The conversation ended earlier than Aarav Expected"
+
+            scene bg hallway 
+            with fade        
+            "A few days later, Aarav came back to the classroom to collect his notebook."
+            "He Heard Rohan and Sia Nearby"
+
+            show sia norm smile at left 
+            show rohan normal at right 
+            with dissolve 
+            r "You haven't told him?"
+            s "Not yet."
+            r "You should"
+            s "I know. Just give me time"
+            "Aarav Stopped near the doorway. He wasn't sure what they were talking about."
+
+            menu:
+                "Walk in and ask what they are discussing":
+                    show aarav huh at center 
+                    with dissolve 
+                    a "What are you two talking about?"
+                    s "Nothing Important"
+                    r "Just class stuff"
+                    a "Okey..."
+
+                    "Their answer came too quickly. Aarav picked up his notebook and left."
+
+                "Stay Quite and leave":
+                    "Aarav quitely picked up his notebook and left. He decided to ask sia later."    
+
+                "Wait Until rohan leaves and talk to sia":
+
+                    show sia confused at left
+                    show aarav upset at right
+                    hide rohan normal
+                    with dissolve 
+                    a "Can I ask you something.."
+                    s "Of course "
+                    s "What haven't you told me?"
+                    s "Aarav... Not here..."
+                    a "Then When? Where?"
+                    s "Aarav I will explain later...."
+                    "Aarav Nooded, but the answer did not make him feel better."
+                    
+
+
+
+
+
+
+
+
+
+
+            
+
+
+            
+
 
 
             
