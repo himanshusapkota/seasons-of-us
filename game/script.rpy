@@ -720,6 +720,99 @@ label cheating_mode:
     "They laughed"
     
 
+    menu: 
+        "Spend the whole break talking with Sia":
+            a "I don't have anywhere else to be"
+            s "Good you are stuck with me."
+            a "Sound dangerous"
+            s "It is"
+
+            "They spent the rest of the break talking about music, school, and random things."
+
+        "Invite rohan and the others to join":
+            a "Should we call other "    
+            s "Sure more people more chaos"
+
+            show rohan happy at center 
+            r "What are you two talking about?"
+            s "Nothing you would understand"
+            r "That's rude"
+            a "She's like that"
+            "They all laughed"
+
+            scene bg classroom 
+            with fade 
+            show aarav normal at left 
+            show sia norm smile at right 
+            with dissolve 
+            s "Aarav"
+            a "Yes Sia"
+            s "Do you like anyone?"
+            a "Maybee"
+            s "Who?"
+            a "Ahhhh"
+            s "Whoo?"
+            a "Ahhhhh"
+            a "...."
+            s "Why are you taking this long pause?"
+            a "It's you Sia"
+            show sia blushing cry at right 
+            with dissolve 
+            s "Ohh"
+            a "Bad Answer?"
+            s "Noo"
+            s "I like you too"
+
+            scene bg sunset
+            with fade
+            show aarav happy blush at left
+            show sia playful smile
+            with dissolve 
+
+            s "So we are together?"
+            a "Yes"
+            s "Good"
+            a "Thats it"
+            s "What else you want me to say?"
+            a "Something memorable"
+            s "Kinda Three magical word"
+            a "Yess"
+            s "Youu say first "
+            a "Ahhhh"
+            a "....."
+            s "Huhh Sayyy"
+            a "I love you Sia"
+            s "I love you too Aarav"
+            
+            scene bg sunset
+            with fade
+
+            "And just like that the classmate at the starting of Grade 8"
+            "Became lover"
+            "Class 8 was finally ended"
+            "They were excited to join class 9 "
+            "And making new memories"
+            "But they didn't knew what was gonna be in class 9th"
+            "They were happy Thats it"
+
+
+
+            # Story of class 9
+
+
+            
+
+
+        
+
+
+
+
+
+   
+
+
+
 
 
 
