@@ -1025,11 +1025,122 @@ label cheating_mode:
             s "Okey"
 
         "Do nothing tonight":
-            "Aarav decided to sleep and speak to her next day."    
+            "Aarav decided to sleep and speak to her next day."
 
-     
+            # The truth    
 
 
+    scene bg schoolyard
+    with fade 
+    "The next afternoon, Sia finally met Aarav."        
+    show aarav normal at left 
+    show sia dark distant at right 
+    with dissolve 
+    a "Can we talk honestly?"
+    s "yes..."
+    a "Are you hiding something from me?"
+    s "Aarav....."
+    a "Please. Just answer"
+
+    menu:
+        "Ask directly about rohan":
+            a "Is there something going on between you and rohan"
+            s "I didn't want you to find out like this."
+            a "Find out what?"
+            s "We've been spending a lot of time together"
+            a "I noticed"
+            s "And I started liking him."
+            a "While we were together?"
+            s "I don't know how to explain it."
+            a "Try"
+
+        "Ask why she has been avoiding you":
+            a "Why have you been avoiding me?"
+            s "I didnot know how to talk to you"
+            a "About what?"
+            s "About rohan. I think my feeling have changed."
+            a "You could have told me."
+            s "I know...."
+
+        "Give her one chance to tell the truth":
+            a "I am going to ask once. Is there anything I should know?"    
+            s "yes"
+            a "I am listening."
+            s "Rohan and I have become close. Closer than we should have."
+            a "So it wasn't just friendship."
+            s "I am sorry , Aarav"
+            a "I wish you had told me earlier"
+
+    show sia sad blush at right      
+    show aarav upset   
+    with dissolve 
+    s "I never wanted to hurt you..."
+    a "But you still did"
+    s "I know"
+    a "Were you going to tell me?"
+    s "I was trying to find the right time."
+    a "there is no perfect time to tell someone the truth."
+
+
+    menu : 
+        "Ask if she still want be with you":
+            a "So you still want this relationship"
+            s "Honestly, I don't know"
+            a "Then I can't keep pretending everything is normal"
+            "Neither of them spoke for a while..."
+            "........."
+
+        "Tell her the relationship was over":
+            a "I can't continue like this."    
+            s "Aarav, Please...."
+            a "I cared about you. That's why this hurt."
+            "Sia Looked down. Aarav stepped away."
+
+        "Ask her to explain everything":
+            a "I want to hear the whole truth. No more half answer"    
+            s "Rohan and I starting talking after school. Then i started hiding our conversations."
+            s "I knew it was wrong, but i kept doing it."
+            a "And you let me belive everything was fine"
+            s "I am sorry"
+            a "I needed honesty, Sia"
+
+
+
+    # Rohan's side 
+    scene bg hallway        
+    with fade
+    "Later that day, Aarav found rohan near the hallway"
+    show aarav annoyed at left
+    show rohan normal at right 
+    with dissolve 
+    r "Aarav"
+    a "We need to talk"
+    r "About sia?"
+    a "You already know "
+    r "Look I didn't plan for this to happen"
+    a "But you knew I was with her"
+    r "I know"
+    a "Then why"
+    r "I started liking her. I should have stayed out of it."
+    a "You could have been honest with me."
+    r "You are right."
+
+    menu:
+        "Tell rohan you need distance":
+            a "I don't want to talk to you for a while."
+            r "I understand."
+            a "Don't make this harder than it already is."
+            r "I won't"
+
+        "Ask Rohan why he kept it secret":    
+            a "Why didn't you tell me?"
+            r "I was scared of losing our friendship."
+            a "So you risked it anyway?"
+            r "I know. I handled it badly."
+
+        "Hear him out, but don't forgive him yet":
+            a "I am listening. But that doesnot mean everything is okey"    
+            a "Yes you should have."
 
 
 
