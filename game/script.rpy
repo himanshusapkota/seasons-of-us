@@ -1143,6 +1143,92 @@ label cheating_mode:
             a "Yes you should have."
 
 
+    # GRADE 10 Starts here:::::::::::::::::::
+    scene bg school
+    with fade 
+    "Grade 10 finally arrived.The school was full of exam schedules, revision notes and nervous conversations."
+    "Aarav tried to focus on his studies, even though everything had changed."
+
+    scene bg classroom
+    with dissolve 
+    show aarav upset at left 
+    with dissolve
+    a "I need to focus. Exams are too close "
+    menu:
+        'Study with your classmates':
+            "Aarav joined the study group. For the first time in weeks, he tought about something else."
+            show rohan normal at right
+            r "Need help with this question?"
+            a "I think I can solve it."
+            r "Alright"
+            "They kept the conversation polite and focused on school."
+
+        "Study alone in the library":
+                "Aarav chose a quite corner of the library and worked though the questions one by one"
 
 
+        "Ask sia if she wants to study together":
+            "Aarav sent sia a short message"        
+            s "Are you sure?"
+            a "Only if we can focus on the exam."
+            s "Okey!! Thankyou"
+            "They studied together, but the old closeness was gone"
+ 
+    scene bg examhall
+    with fade 
+    "The exam day finally arrived. Aarav sat down and looked at the questions paper."
+    "For that next few hours, there was nothing except the sound of pens."
+    show aarav normal
+    with dissolve 
+    a "Okey lets do this"
+
+    scene bg school
+    with fade 
+    "When the exam ended, everyone walked outside. Some students discussed answers. Others were already celebrating."
+
+    show aarav happy at left
+    show sia sad blush at right 
+    s "How was the exam?"
+    a "Better than I expected"
+    s "That's good"
+    a "How was yours?"
+    s "It was okey"
+    "There was akward silence "
+
+    menu:
+        "Wish sia good luck for remaining exams":
+            a "Good luck for the next exam."
+            s "Thankyou Aarav. You too"
+            "They walked in different direction"
+            
+        "Keep the conversation short":
+            a "I should go. See you"    
+            s "Yeah see you"
+            "Aarav left without looking back"
+
+        "Ask if she is doing okey":
+            a "Are you doing okey?"    
+            s "I am trying"
+            a "I hope thing work for you."
+            s "I hope the same for you"
+
+            "for a moment, they spoke like the old friends they used to be."
+
+    scene bg sunset
+    with fade        
+    "The result were announced a few weeks later. Aarav had done well."
+    show aarav happy 
+    with dissolve 
+    a "I made it."
+    "As the school year came to an end, Aarav had one final decision to make."
+
+    menu:
+        "Choose yourself and move on":
+            jump ending_move_on
+
+        "Give Sia a chance to explain, but start over as friends":
+            jump ending_friends
+
+        "Meet Sia and Rohan together for one final conversation":
+            jump ending_final_conversation
     return
