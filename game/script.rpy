@@ -966,5 +966,72 @@ label cheating_mode:
 
 
     #The first biggest lie........
+    scene bg hallway
+    with fade 
+    "One afternoon , Aarav was sitting outside the classroom. Sia had told him she was going to the library"
+    "But when he passed the schoolyard, he saw her with rohan"
+    show sia playful smile at left 
+    show rohan happy at right 
+    with dissolve 
+    r "You should have seen his face today."
+    s "I know ! I couldn't stop laughing"
+    s "Definitely"
+    "Aarav Stood Still. They looked comfortable together. Much more comfortable then he expected"
+
+    menu:
+        "Walk up and ask why they lied":
+            show aarav annoyed at center 
+            with dissolve 
+            a "I thought you were in the library."
+            s "Aarav..."
+            r "Hey, man"
+            a "You both told me different things."
+            s "Can we talk later?"
+            a "That's what you always say."
+
+            "The mood changed immediately"
+        "Leave before they notice you":
+            "Aarav turned around and walked away. He wanted explanation, not an arguement."  
+
+        "Ask Rohan to talk privately":
+            show aarav normal at center   
+            with dissolve 
+            a "Rohan! Can I talk to you for a minute."
+            r "Sure"
+            hide sia
+            with dissolve 
+            a "What's going on between you and sia?"
+            r "We are only friends"
+            a "Only friends?"
+            r "you should ask her "
+            "Rohan looked away. That Answer told aarav more than he wanted."
+
+
+    scene bg bedroom
+    with fade 
+    "That night, Aarav Kept thinkung about the afternoon. He decided he needed a clear answer"
+    menu: 
+        "Message sia: We need to talk":
+            "Aarav sent the message"
+            s "Okey tomorrow"
+            "Aarav Put his phone down"
+
+        "Call sia immdiately":
+            "Aarav called sia. She answered after a few rings."  
+            s "Hello!!" 
+            a "Can you tell me what's happeining?"
+            s "Not on the phone, Aarav"
+            a "Then tomorrow. No excuses."
+            s "Okey"
+
+        "Do nothing tonight":
+            "Aarav decided to sleep and speak to her next day."    
+
+     
+
+
+
+
+
 
     return
