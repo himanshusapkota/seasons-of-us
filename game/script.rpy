@@ -269,7 +269,7 @@ label normal_mode:
     show sia mischievous at right
     with dissolve
 
-    s "I can bet you can't finish this before me."
+    s "I bet you can't finish this before me."
     a "Finish what?"
     s "Your food."
     a "That's not a competition."
@@ -344,7 +344,7 @@ label normal_mode:
     a "I think I like her."
     "He immediately regretted saying it out loud."
     a "Great."
-    a "Now I will be talking with myself."
+    a "Now I will be talking to myself."
 
     scene bg schoolyard
     with fade
@@ -418,101 +418,104 @@ label normal_mode:
 
     s "Guess what?"
     a "What?"
-    s "I got the highest marks in science"
-    a "Seriously"
-    s "Yep"
-    a "I thought i was going to beat you"
-    s "Your thinking is wrong aaravvv"
-    a "Next exam"
-    s "Deal"
-    a "yeshhh"
+    s "I got the highest marks in science."
+    a "Seriously?"
+    s "Yep."
+    a "I thought I was going to beat you."
+    s "Your thinking is wrong, Aarav."
+    a "Next exam."
+    s "Deal."
+    a "Yesss."
 
-    "Their competition became one of their favorite things"
+    "Their competition became one of their favorite things."
     "Neither wanted the other to fail."
-    "They simply wanna push each other"
+    "They simply wanted to push each other."
 
     scene bg classroom
-    "Class 10 arrived"
-    "Everything suddenly felt more serious"
-    "Board exam were getting closer"
-    "Teacher gave more homework"
-    "Everyone talked about the marks"
+    with fade
+
+    "Class 10 arrived."
+    "Everything suddenly felt more serious."
+    "Board exams were getting closer."
+    "Teachers gave more homework."
+    "Everyone talked about marks."
 
     show aarav upset at left
     show sia annoyed at right
     with dissolve
 
-    a "I don't understand this chapter"
-    s "You haven't even tried"
-    a "I did"
-    s "For 5 minutes"
-    a "I am still trying"
-    s "Give me your notebook"
+    a "I don't understand this chapter."
+    s "You haven't even tried."
+    a "I did."
+    s "For 5 minutes."
+    a "I am still trying."
+    s "Give me your notebook."
     a "Whyy?"
-    s "I will explain it"
-    a "You are saving me again"
-    s "Someone has to"
+    s "I will explain it."
+    a "You are saving me again."
+    s "Someone has to."
 
-    "They studied together almost every day"
-    "Sometimes they understood everything"
-    "Sometime they understood nothing"
-    "Sometimes they understood nothing"
-    "Sometime they spent 20 minutes instead of studiyng"
+    "They studied together almost every day."
+    "Sometimes they understood everything."
+    "Sometimes they understood nothing."
+    "Sometimes they spent 20 minutes talking instead of studying."
 
     show sia mischievous
     with dissolve
 
-    s "We have been studying for an hout"
-    a "We studied for 10 minutes"
-    s "The rest was discussion"
-    a "About snacks"
-    s "Important discussion"
-    a "Very important"
+    s "We have been studying for an hour."
+    a "We studied for 10 minutes."
+    s "The rest was discussion."
+    a "About snacks."
+    s "Important discussion."
+    a "Very important."
 
     scene bg bedroom
     with fade
 
-    "The night before the exams were different"
-    "There were few jokes"
-    "More books"
-    "More Pressure"
+    "The night before the exams was different."
+    "There were fewer jokes."
+    "More books."
+    "More pressure."
 
     show aarav normal at left
     show sia norm smile at right
     with dissolve
 
     a "Are you still awake?"
-    s "yeah"
-    a "You should sleep"
-    s "You too"
-    a "This is time I mean it"
-    s "Sure"
-    a "Good Luck tomorrow"
-    s "Good Luck"
+    s "Yeah."
+    a "You should sleep."
+    s "You too."
+    a "This time I mean it."
+    s "Sure."
+    a "Good luck tomorrow."
+    s "Good luck."
 
     scene bg examhall
     show aarav normal at left
     with dissolve
 
-    "the exam day finally arrives"
-    "Aarav Sat Down"
-    "Sia Set nearby"
+    "The exam day finally arrived."
+    "Aarav sat down."
+    "Sia sat nearby."
 
     show sia confused at right
     with fade
 
-    s "nervous"
-    a "Ahh Little"
-    s "You will do it fine"
-    a "You too"
-    "The teacher handed out the papers"
-    "The room became silent"
-    "Aarav looked into the first question"
+    s "Nervous?"
+    a "Ahh, a little."
+    s "You will do fine."
+    a "You too."
 
-    a "Okey Lets Do this"
-    "for next three hours there was nothing except the sound of pens"
-    "When The exam ended, everyone walked outside"
-    "Like The Day The 7 exam passed"
+    "The teacher handed out the papers."
+    "The room became silent."
+    "Aarav looked at the first question."
+
+    a "Okay, let's do this."
+
+    "For the next three hours, there was nothing except the sound of pens."
+    "When the exam ended, everyone walked outside."
+    "The same happened on each of the remaining exam days."
 
     scene bg school
     with fade
@@ -522,31 +525,31 @@ label normal_mode:
     with dissolve
 
     s "How were the exams?"
-    a "Better than i expected.."
-    s "Same"
-    a "Think you will beat me"
-    s "Definately"
-    a "We will see"
+    a "Better than I expected."
+    s "Same."
+    a "Think you will beat me?"
+    s "Definitely."
+    a "We will see."
 
     scene bg sunset
     with fade
-    "The Result came"
-    "Aarav had the first place"
-    "Sia had the second place"
 
+    "The results came."
+    "Aarav had the first place."
+    "Sia had the second place."
 
     show aarav happy at left
     show sia playful smile at right
     with dissolve
 
-    s "Congratulations"
-    a "Youu too"
-    s "You finally beat me"
-    a "Finally"
-    s "Dont get too proud"
-    a "too late"
+    s "Congratulations."
+    a "You too."
+    s "You finally beat me."
+    a "Finally."
+    s "Don't get too proud."
+    a "Too late."
 
-    "Both knew that grade 10 was ending soon they would have to leave"
+    "Both knew that Grade 10 was ending soon and they would have to leave."
 
     scene bg schoolyard
     with fade
@@ -555,253 +558,264 @@ label normal_mode:
     show sia sad blush at right
     with dissolve
 
-    s "I am going to miss this place"
-    a "mee too"
-    s "Even teachers?"
-    a "Maybe not that much"
-    s "I knew it"
-    a "What about you"
-    s "I will miss the people"
-    a "me?"
-    s "Specially you"
-    a "Good Answer"
-    s "Idiot"
-    "They Smiled"
+    s "I am going to miss this place."
+    a "Me too."
+    s "Even the teachers?"
+    a "Maybe not that much."
+    s "I knew it."
+    a "What about you?"
+    s "I will miss the people."
+    a "Me?"
+    s "Especially you."
+    a "Good answer."
+    s "Idiot."
 
-    "They Knew things were going to change "
-    "But they didnot want change to mean goodbye"
+    "They smiled."
+
+    "They knew things were going to change."
+    "But they did not want change to mean goodbye."
 
     scene bg sunset
     with fade
 
-    "After class 10 life became busier"
-    "Different classes"
-    "Different schedules"
-    "Different responsibilities"
-    "But aarav and sia stayed together"
-    "They called each other"
-    "They Studied together whenever they could"
-    "They celebrated each others achievements"
-    "They argued sometimes"
-    "Then they made up"
-    "They were growing up"
-    "And they were doing together"
+    "After Class 10, life became busier."
+    "Different classes."
+    "Different schedules."
+    "Different responsibilities."
+    "But Aarav and Sia stayed together."
+    "They called each other."
+    "They studied together whenever they could."
+    "They celebrated each other's achievements."
+    "They argued sometimes."
+    "Then they made up."
+    "They were growing up."
+    "And they were doing it together."
 
     scene bg school
     with fade
 
-    "year passed"
-    "School became college"
-    "Their lives became bigger than the classroom where they first meet."
-    "But whenever they talked about the past"
-    "They would come back to class 8th."
+    "Years passed."
+    "School became college."
+    "Their lives became bigger than the classroom where they first met."
+    "But whenever they talked about the past..."
+    "They would come back to Class 8."
 
     show aarav happy at left
     show sia norm smile at right
     with fade
 
     a "Do you remember the seat?"
-    s "Which Seat?"
-    a "The one you stole"
-    s "It was mine"
-    a "There wasnot name on it"
-    s "There should have been"
+    s "Which seat?"
+    a "The one you stole."
+    s "It was mine."
+    a "There was no name on it."
+    s "There should have been."
     a "You still say that?"
-    s "Forever"
-    a "Fair enough"
-    "Aarav Smiled"
-    a "I am glad you stole"
+    s "Forever."
+    a "Fair enough."
+
+    "Aarav smiled."
+
+    a "I am glad you stole it."
     s "Why?"
-    a "because otherwise"
-    a "We might never talked"
-    s "Maybe"
-    a "And that would have been terrible"
-    s "very"
+    a "Because otherwise..."
+    a "We might never have talked."
+    s "Maybe."
+    a "And that would have been terrible."
+    s "Very."
 
     scene bg sunset
     with fade
 
-    "Years Later"
-    "aarav stood beside sia"
+    "Years later."
+    "Aarav stood beside Sia."
 
     show aarav happy at left
     show sia norm smile at right
     with dissolve
 
     a "Ready?"
-    s "I have been ready for a long time"
+    s "I have been ready for a long time."
     a "Nervous?"
-    s "A Little"
-    a "mee too"
-    s "Then dont mess it up"
-    a "I wont"
+    s "A little."
+    a "Me too."
+    s "Then don't mess it up."
+    a "I won't."
 
-    "The two people who had met over a school chair years ago were now begginning another chapter of their lives."
-    "They had grown together"
-    "They had supported each other"
-    "They had chosen each other"
-    "And after all those years"
-    "They are still choosing each other"
+    "The two people who had met over a school chair years ago were now beginning another chapter of their lives."
+    "They had grown together."
+    "They had supported each other."
+    "They had chosen each other."
+    "And after all those years..."
+    "They were still choosing each other."
 
     scene bg sunset
     with fade
 
-    "Sometimes the best stories arent about finding the perfect person."
-    "They are about growing with someone"
-    "Learning"
-    "Forgiving"
-    "Laughing"
-    "And staying when the life becomes diffcult"
-    "Aarav and sia started in a classroom"
-    "But it didnot end there"
-    "It became a lifetime"
+    "Sometimes the best stories aren't about finding the perfect person."
+    "They are about growing with someone."
+    "Learning."
+    "Forgiving."
+    "Laughing."
+    "And staying when life becomes difficult."
+    "Aarav and Sia started in a classroom."
+    "But it did not end there."
+    "It became a lifetime."
     "The End!!"
 
-
-    "Normal mode Finished"
+    "Normal mode finished."
     return
+
 
 label cheating_mode:
 
     scene bg school
     with fade
 
-    "The classroom was louder than usual"
+    "The classroom was louder than usual."
+
     show aarav normal at left
-    a "I should have stayed home"
+    a "I should have stayed home."
     show sia norm smile at right
     s "Why?"
-    a "Too many people "
-    s "You are one of the people "
-    a "Exactly"
-    s "I am Sia"
-    a "Aarav"
-    s "I know "
-    a "Everyone knows my name apprently"
-    s "The teacher does"
-    a "Thats Different"
-    s "Not really"
+    a "Too many people."
+    s "You are one of the people."
+    a "Exactly."
+    s "I am Sia."
+    a "Aarav."
+    s "I know."
+    a "Everyone knows my name apparently."
+    s "The teacher does."
+    a "That's different."
+    s "Not really."
 
     scene bg classroom
     with dissolve
+
     show aarav clueless at left
     show sia norm smile at right
     s "Did you understand today's lesson?"
-    a "No"
-    s "Honest"
-    a "yesh"
-    s "Want my notes"
-    a "yes"
-    s "Then you owe me"
+    a "No."
+    s "Honest."
+    a "Yesh."
+    s "Want my notes?"
+    a "Yes."
+    s "Then you owe me."
     a "What do I owe you?"
-    s "A snack"
-    a "Thats Expensive"
-    s "Then Study harder"
-    a "Deal"
+    s "A snack."
+    a "That's expensive."
+    s "Then study harder."
+    a "Deal."
 
     scene bg schoolyard
     with dissolve
 
     show aarav happy at right
     show sia playful smile at left
-    a "here"
-    s "whats that"
-    a "your snack"
-    s "you actually remembered"
-    a "I remember the important things"
-    s "Am I important"
-    a "Maybe "
+    a "Here."
+    s "What's that?"
+    a "Your snack."
+    s "You actually remembered."
+    a "I remember the important things."
+    s "Am I important?"
+    a "Maybe."
     s "Maybe?"
-    a "Dont get excited"
-    s "too late "
+    a "Don't get excited."
+    s "Too late."
 
-    "They laughed"
+    "They laughed."
 
 
     menu:
         "Spend the whole break talking with Sia":
-            a "I don't have anywhere else to be"
-            s "Good you are stuck with me."
-            a "Sound dangerous"
-            s "It is"
+            a "I don't have anywhere else to be."
+            s "Good, you are stuck with me."
+            a "Sounds dangerous."
+            s "It is."
 
             "They spent the rest of the break talking about music, school, and random things."
 
-        "Invite rohan and the others to join":
-            a "Should we call other "
-            s "Sure more people more chaos"
+        "Invite Rohan and the others to join":
+            a "Should we call the others?"
+            s "Sure, more people, more chaos."
 
             show rohan happy at center
             r "What are you two talking about?"
-            s "Nothing you would understand"
-            r "That's rude"
-            a "She's like that"
-            "They all laughed"
+            s "Nothing you would understand."
+            r "That's rude."
+            a "She's like that."
+            "They all laughed."
+            hide rohan
 
     scene bg classroom
     with fade
+
     show aarav normal at left
     show sia norm smile at right
     with dissolve
-    s "Aarav"
-    a "Yes Sia"
+
+    s "Aarav."
+    a "Yes, Sia?"
     s "Do you like anyone?"
-    a "Maybee"
+    a "Maybe."
     s "Who?"
-    a "Ahhhh"
-    s "Whoo?"
-    a "Ahhhhh"
+    a "Ahhhh."
+    s "Whooo?"
+    a "Ahhhhh."
     a "...."
-    s "Why are you taking this long pause?"
-    a "It's you Sia"
+    s "Why are you taking such a long pause?"
+    a "It's you, Sia."
+
     show sia blushing cry at right
     with dissolve
-    s "Ohh"
-    a "Bad Answer?"
-    s "Noo"
-    s "I like you too"
+
+    s "Ohh."
+    a "Bad answer?"
+    s "Noo."
+    s "I like you too."
 
     scene bg sunset
     with fade
+
     show aarav happy blush at left
-    show sia playful smile
+    show sia playful smile at right
     with dissolve
 
     s "So we are together?"
-    a "Yes"
-    s "Good"
-    a "Thats it"
-    s "What else you want me to say?"
-    a "Something memorable"
-    s "Kinda Three magical word"
-    a "Yess"
-    s "Youu say first "
-    a "Ahhhh"
+    a "Yes."
+    s "Good."
+    a "That's it?"
+    s "What else do you want me to say?"
+    a "Something memorable."
+    s "Kinda... three magical words."
+    a "Yess."
+    s "You say it first."
+    a "Ahhhh."
     a "....."
-    s "Huhh Sayyy"
-    a "I love you Sia"
-    s "I love you too Aarav"
+    s "Huhh? Sayyy."
+    a "I love you, Sia."
+    s "I love you too, Aarav."
 
     scene bg sunset
     with fade
 
-    "And just like that the classmate at the starting of Grade 8"
-    "Became lover"
-    "Class 8 was finally ended"
-    "They were excited to join class 9 "
-    "And making new memories"
-    "But they didn't knew what was gonna be in class 9th"
-    "They were happy Thats it"
-
+    "And just like that, the classmates from the start of Grade 8..."
+    "Became lovers."
+    "Class 8 had finally ended."
+    "They were excited to join Class 9."
+    "And to make new memories."
+    "But they didn't know what was coming in Class 9."
+    "They were happy. That's all."
 
 
     # Story of class 9
-    #Rohan is gonna Join the story
+    # Rohan is going to join the story
 
     scene bg school
     with fade
 
-    "One year later.... Grade 9 began with new subjects , new classmates, and and few new problems."
+    "One year later..."
+    "Grade 9 began with new subjects, new classmates, and a few new problems."
 
     scene bg classroom
     with dissolve
@@ -809,47 +823,51 @@ label cheating_mode:
     show aarav happy at left
     show sia norm smile at right
     with dissolve
-    a "Finally a new year"
-    s "And More Homeworks"
-    a "Don't ruin the moment"
-    s "I am Just being realistic"
+
+    a "Finally, a new year."
+    s "And more homework."
+    a "Don't ruin the moment."
+    s "I am just being realistic."
 
     show rohan normal talking at center
     with dissolve
-    r "heyy you two"
-    a "oh, hey rohan"
-    s "You are in our class this year?"
-    r "Looks like it"
-    a "Good Luck Surviving"
-    r "I think i will be fine "
-    s "That's what everyone says"
 
-    "Rohan Quickly became the part of their group, everything felt normal."
-    "Suddenly the group of 2 became the group of 3"
-    "Aarav was afraid of loosing sia"
+    r "Heyy, you two."
+    a "Oh, hey Rohan."
+    s "You are in our class this year?"
+    r "Looks like it."
+    a "Good luck surviving."
+    r "I think I will be fine."
+    s "That's what everyone says."
+
+    "Rohan quickly became part of their group, and everything felt normal."
+    "Suddenly the group of two became a group of three."
+    "Aarav was afraid of losing Sia."
 
 
     scene bg schoolyard
     with fade
+
     show aarav normal at left
     show sia playful smile at center
     show rohan happy at right
     with dissolve
-    r "You both always sit together"
-    a "Preety Much"
-    a "She is basically my permanent class patner."
-    s "And he is my unpaid homework assistant"
-    r "Sounds like a great deal"
-    a "For her, Maybe"
+
+    r "You both always sit together."
+    a "Pretty much."
+    a "She is basically my permanent class partner."
+    s "And he is my unpaid homework assistant."
+    r "Sounds like a great deal."
+    a "For her, maybe."
 
     menu:
         "Joke about Rohan joining your group":
-            a "Don't worry, Rohan. We might let you sit you with us."
-            r "How generous"
-            s "Only if you bring snacks "
+            a "Don't worry, Rohan. We might let you sit with us."
+            r "How generous."
+            s "Only if you bring snacks."
             r "I knew there would be conditions."
 
-        "Ask Rohan what he thinks of the class?":
+        "Ask Rohan what he thinks of the class":
             a "So, what do you think of our class?"
             r "It's alright. People are friendly."
             s "And the teachers?"
@@ -858,87 +876,98 @@ label cheating_mode:
 
     scene bg classroom
     with fade
-    "As the week passed , Aarav Noticed that Sia and Rohan were talking more."
-    "It did not seem strange at first. They were friends , after all."
+
+    "As the week passed, Aarav noticed that Sia and Rohan were talking more."
+    "It did not seem strange at first. They were friends, after all."
+
     show aarav normal at left
     show sia norm smile at right
     with dissolve
-    a "Are you coming to library after class?"
-    s "Maybe. I have something to do"
-    a "What thing?"
-    s "Just Something...."
-    a "Okey"
 
-    "Sia Quickly Changed the topic"
+    a "Are you coming to the library after class?"
+    s "Maybe. I have something to do."
+    a "What thing?"
+    s "Just something..."
+    a "Okay."
+
+    "Sia quickly changed the topic."
 
     menu:
-        "Ask sia if something was wrong":
-            a "You seem a little different lately. Is everything okey?"
-            s "Yeah Aarav. I am Just Busy"
-            a "If something is bothering you , you can tell me."
-            s "I know , Thankyou"
-            "She smiled but aarav felt that something was left unsaid."
+        "Ask Sia if something was wrong":
+            a "You seem a little different lately. Is everything okay?"
+            s "Yeah, Aarav. I am just busy."
+            a "If something is bothering you, you can tell me."
+            s "I know. Thank you."
+            "She smiled, but Aarav felt that something was left unsaid."
 
         "Give her some space":
-            a "Okey. Message me when you are free."
-            s "I will"
+            a "Okay. Message me when you are free."
+            s "I will."
 
-            "Aarav Decides not to overthink it."
+            "Aarav decided not to overthink it."
 
-        "Ask of rohan is the reason":
+        "Ask if Rohan is the reason":
             a "Is this about Rohan?"
-            s "What? No"
-            a "I was just asking.."
-            s "Please don't make this weird"
+            s "What? No."
+            a "I was just asking..."
+            s "Please don't make this weird."
 
-            "The conversation ended earlier than Aarav Expected"
+            "The conversation ended earlier than Aarav expected."
 
     scene bg hallway
     with fade
+
     "A few days later, Aarav came back to the classroom to collect his notebook."
-    "He Heard Rohan and Sia Nearby"
+    "He heard Rohan and Sia nearby."
 
     show sia norm smile at left
     show rohan normal at right
     with dissolve
+
     r "You haven't told him?"
     s "Not yet."
-    r "You should"
-    s "I know. Just give me time"
-    "Aarav Stopped near the doorway. He wasn't sure what they were talking about."
+    r "You should."
+    s "I know. Just give me time."
+
+    "Aarav stopped near the doorway. He wasn't sure what they were talking about."
 
     menu:
         "Walk in and ask what they are discussing":
             show aarav huh at center
             with dissolve
             a "What are you two talking about?"
-            s "Nothing Important"
-            r "Just class stuff"
-            a "Okey..."
+            s "Nothing important."
+            r "Just class stuff."
+            a "Okay..."
 
             "Their answer came too quickly. Aarav picked up his notebook and left."
 
-        "Stay Quite and leave":
-            "Aarav quitely picked up his notebook and left. He decided to ask sia later."
+        "Stay quiet and leave":
+            "Aarav quietly picked up his notebook and left. He decided to ask Sia later."
 
-        "Wait Until rohan leaves and talk to sia":
+        "Wait until Rohan leaves and talk to Sia":
 
             show sia confused at left
             show aarav upset at right
-            hide rohan normal
+            hide rohan
             with dissolve
-            a "Can I ask you something.."
-            s "Of course "
-            s "What haven't you told me?"
-            s "Aarav... Not here..."
-            a "Then When? Where?"
-            s "Aarav I will explain later...."
-            "Aarav Nooded, but the answer did not make him feel better."
+            a "Can I ask you something...?"
+            s "Of course."
+            a "What haven't you told me?"
+            s "Aarav... not here..."
+            a "Then when? Where?"
+            s "Aarav, I will explain later..."
+            "Aarav nodded, but the answer did not make him feel better."
 
 
     scene bg schoolyard
     with dissolve
-    "the next week, Sia started cancelling plans. Sometimes she said she have homework. Sometime she said she was tired. Sometime she didnot reply at all."
+
+    "The next week, Sia started cancelling plans."
+    "Sometimes she said she had homework."
+    "Sometimes she said she was tired."
+    "Sometimes she didn't reply at all."
+
     show aarav normal
     with dissolve
 
@@ -946,280 +975,307 @@ label cheating_mode:
         "Send Sia a calm message":
             a "Hey, we haven't talked properly lately. Can we meet after school?"
             show sia dark distant
-            s "Maybe tomrrow. I am busy today"
-            a "okey let me know"
+            s "Maybe tomorrow. I am busy today."
+            a "Okay, let me know."
 
-        "Call rohan and ask if he knows anything":
+        "Call Rohan and ask if he knows anything":
             show rohan normal at right
             with dissolve
-            a "hey have you talked to sia recently?"
-            r "yes! somethimes, why?"
-            a "She's been distant"
-            r "Maybe she is dealing with something. Dont worry too much."
-            "Rohan Sounded Unsually careful with his words/"
+            a "Hey, have you talked to Sia recently?"
+            r "Yes! Sometimes. Why?"
+            a "She's been distant."
+            r "Maybe she is dealing with something. Don't worry too much."
+            "Rohan sounded unusually careful with his words."
 
         "Focus on school and wait":
-            hide aarav normal
+            hide aarav
 
             "Aarav decided to focus on his studies. He had exams coming up."
-            "Still, the unanswered questions stayed in his mind"
+            "Still, the unanswered questions stayed in his mind."
 
 
-    #The first biggest lie........
+    # The first biggest lie........
     scene bg hallway
-    with fade 
-    "One afternoon , Aarav was sitting outside the classroom. Sia had told him she was going to the library"
-    "But when he passed the schoolyard, he saw her with rohan"
-    show sia playful smile at left 
-    show rohan happy at right 
-    with dissolve 
+    with fade
+
+    "One afternoon, Aarav was sitting outside the classroom. Sia had told him she was going to the library."
+    "But when he passed the schoolyard, he saw her with Rohan."
+
+    show sia playful smile at left
+    show rohan happy at right
+    with dissolve
+
     r "You should have seen his face today."
-    s "I know ! I couldn't stop laughing"
-    s "Definitely"
-    "Aarav Stood Still. They looked comfortable together. Much more comfortable then he expected"
+    s "I know! I couldn't stop laughing."
+    s "Definitely."
+
+    "Aarav stood still. They looked comfortable together. Much more comfortable than he expected."
 
     menu:
         "Walk up and ask why they lied":
-            show aarav annoyed at center 
-            with dissolve 
+            show aarav annoyed at center
+            with dissolve
             a "I thought you were in the library."
             s "Aarav..."
-            r "Hey, man"
+            r "Hey, man."
             a "You both told me different things."
             s "Can we talk later?"
             a "That's what you always say."
 
-            "The mood changed immediately"
+            "The mood changed immediately."
+
         "Leave before they notice you":
-            "Aarav turned around and walked away. He wanted explanation, not an arguement."  
+            "Aarav turned around and walked away. He wanted an explanation, not an argument."
 
         "Ask Rohan to talk privately":
-            show aarav normal at center   
-            with dissolve 
-            a "Rohan! Can I talk to you for a minute."
-            r "Sure"
+            show aarav normal at center
+            with dissolve
+            a "Rohan! Can I talk to you for a minute?"
+            r "Sure."
             hide sia
-            with dissolve 
-            a "What's going on between you and sia?"
-            r "We are only friends"
+            with dissolve
+            a "What's going on between you and Sia?"
+            r "We are only friends."
             a "Only friends?"
-            r "you should ask her "
-            "Rohan looked away. That Answer told aarav more than he wanted."
+            r "You should ask her."
+            "Rohan looked away. That answer told Aarav more than he wanted to know."
 
 
     scene bg bedroom
-    with fade 
-    "That night, Aarav Kept thinkung about the afternoon. He decided he needed a clear answer"
-    menu: 
-        "Message sia: We need to talk":
-            "Aarav sent the message"
-            s "Okey tomorrow"
-            "Aarav Put his phone down"
+    with fade
 
-        "Call sia immdiately":
-            "Aarav called sia. She answered after a few rings."  
-            s "Hello!!" 
-            a "Can you tell me what's happeining?"
-            s "Not on the phone, Aarav"
-            a "Then tomorrow. No excuses."
-            s "Okey"
-
-        "Do nothing tonight":
-            "Aarav decided to sleep and speak to her next day."
-
-            # The truth    
-
-
-    scene bg schoolyard
-    with fade 
-    "The next afternoon, Sia finally met Aarav."        
-    show aarav normal at left 
-    show sia dark distant at right 
-    with dissolve 
-    a "Can we talk honestly?"
-    s "yes..."
-    a "Are you hiding something from me?"
-    s "Aarav....."
-    a "Please. Just answer"
+    "That night, Aarav kept thinking about the afternoon. He decided he needed a clear answer."
 
     menu:
-        "Ask directly about rohan":
-            a "Is there something going on between you and rohan"
+        "Message Sia: We need to talk":
+            "Aarav sent the message."
+            s "Okay, tomorrow."
+            "Aarav put his phone down."
+
+        "Call Sia immediately":
+            "Aarav called Sia. She answered after a few rings."
+            s "Hello!!"
+            a "Can you tell me what's happening?"
+            s "Not on the phone, Aarav."
+            a "Then tomorrow. No excuses."
+            s "Okay."
+
+        "Do nothing tonight":
+            "Aarav decided to sleep and speak to her the next day."
+
+    # The truth
+
+    scene bg schoolyard
+    with fade
+
+    "The next afternoon, Sia finally met Aarav."
+
+    show aarav normal at left
+    show sia dark distant at right
+    with dissolve
+
+    a "Can we talk honestly?"
+    s "Yes..."
+    a "Are you hiding something from me?"
+    s "Aarav..."
+    a "Please. Just answer."
+
+    menu:
+        "Ask directly about Rohan":
+            a "Is there something going on between you and Rohan?"
             s "I didn't want you to find out like this."
             a "Find out what?"
-            s "We've been spending a lot of time together"
-            a "I noticed"
+            s "We've been spending a lot of time together."
+            a "I noticed."
             s "And I started liking him."
             a "While we were together?"
             s "I don't know how to explain it."
-            a "Try"
+            a "Try."
 
         "Ask why she has been avoiding you":
             a "Why have you been avoiding me?"
-            s "I didnot know how to talk to you"
+            s "I did not know how to talk to you."
             a "About what?"
-            s "About rohan. I think my feeling have changed."
+            s "About Rohan. I think my feelings have changed."
             a "You could have told me."
-            s "I know...."
+            s "I know..."
 
         "Give her one chance to tell the truth":
-            a "I am going to ask once. Is there anything I should know?"    
-            s "yes"
+            a "I am going to ask once. Is there anything I should know?"
+            s "Yes."
             a "I am listening."
             s "Rohan and I have become close. Closer than we should have."
             a "So it wasn't just friendship."
-            s "I am sorry , Aarav"
-            a "I wish you had told me earlier"
+            s "I am sorry, Aarav."
+            a "I wish you had told me earlier."
 
-    show sia sad blush at right      
-    show aarav upset   
-    with dissolve 
+    show sia sad blush at right
+    show aarav upset
+    with dissolve
+
     s "I never wanted to hurt you..."
-    a "But you still did"
-    s "I know"
+    a "But you still did."
+    s "I know."
     a "Were you going to tell me?"
     s "I was trying to find the right time."
-    a "there is no perfect time to tell someone the truth."
+    a "There is no perfect time to tell someone the truth."
 
 
-    menu : 
-        "Ask if she still want be with you":
-            a "So you still want this relationship"
-            s "Honestly, I don't know"
-            a "Then I can't keep pretending everything is normal"
+    menu:
+        "Ask if she still wants to be with you":
+            a "So do you still want this relationship?"
+            s "Honestly, I don't know."
+            a "Then I can't keep pretending everything is normal."
             "Neither of them spoke for a while..."
             "........."
 
-        "Tell her the relationship was over":
-            a "I can't continue like this."    
-            s "Aarav, Please...."
+        "Tell her the relationship is over":
+            a "I can't continue like this."
+            s "Aarav, please..."
             a "I cared about you. That's why this hurt."
-            "Sia Looked down. Aarav stepped away."
+            "Sia looked down. Aarav stepped away."
 
         "Ask her to explain everything":
-            a "I want to hear the whole truth. No more half answer"    
-            s "Rohan and I starting talking after school. Then i started hiding our conversations."
-            s "I knew it was wrong, but i kept doing it."
-            a "And you let me belive everything was fine"
-            s "I am sorry"
-            a "I needed honesty, Sia"
+            a "I want to hear the whole truth. No more half answers."
+            s "Rohan and I started talking after school. Then I started hiding our conversations."
+            s "I knew it was wrong, but I kept doing it."
+            a "And you let me believe everything was fine."
+            s "I am sorry."
+            a "I needed honesty, Sia."
 
 
 
-    # Rohan's side 
-    scene bg hallway        
+    # Rohan's side
+    scene bg hallway
     with fade
-    "Later that day, Aarav found rohan near the hallway"
+
+    "Later that day, Aarav found Rohan near the hallway."
+
     show aarav annoyed at left
-    show rohan normal at right 
-    with dissolve 
-    r "Aarav"
-    a "We need to talk"
-    r "About sia?"
-    a "You already know "
-    r "Look I didn't plan for this to happen"
-    a "But you knew I was with her"
-    r "I know"
-    a "Then why"
+    show rohan normal at right
+    with dissolve
+
+    r "Aarav."
+    a "We need to talk."
+    r "About Sia?"
+    a "You already know."
+    r "Look, I didn't plan for this to happen."
+    a "But you knew I was with her."
+    r "I know."
+    a "Then why?"
     r "I started liking her. I should have stayed out of it."
     a "You could have been honest with me."
     r "You are right."
 
     menu:
-        "Tell rohan you need distance":
+        "Tell Rohan you need distance":
             a "I don't want to talk to you for a while."
             r "I understand."
             a "Don't make this harder than it already is."
-            r "I won't"
+            r "I won't."
 
-        "Ask Rohan why he kept it secret":    
+        "Ask Rohan why he kept it secret":
             a "Why didn't you tell me?"
             r "I was scared of losing our friendship."
             a "So you risked it anyway?"
             r "I know. I handled it badly."
 
         "Hear him out, but don't forgive him yet":
-            a "I am listening. But that doesnot mean everything is okey"    
-            a "Yes you should have."
+            a "I am listening. But that doesn't mean everything is okay."
+            a "Yes, you should have told me."
 
 
     # GRADE 10 Starts here:::::::::::::::::::
     scene bg school
-    with fade 
-    "Grade 10 finally arrived.The school was full of exam schedules, revision notes and nervous conversations."
+    with fade
+
+    "Grade 10 finally arrived. The school was full of exam schedules, revision notes and nervous conversations."
     "Aarav tried to focus on his studies, even though everything had changed."
 
     scene bg classroom
-    with dissolve 
-    show aarav upset at left 
     with dissolve
-    a "I need to focus. Exams are too close "
+
+    show aarav upset at left
+    with dissolve
+
+    a "I need to focus. Exams are too close."
+
     menu:
-        'Study with your classmates':
-            "Aarav joined the study group. For the first time in weeks, he tought about something else."
+        "Study with your classmates":
+            "Aarav joined the study group. For the first time in weeks, he thought about something else."
             show rohan normal at right
             r "Need help with this question?"
             a "I think I can solve it."
-            r "Alright"
+            r "Alright."
             "They kept the conversation polite and focused on school."
 
         "Study alone in the library":
-                "Aarav chose a quite corner of the library and worked though the questions one by one"
+            "Aarav chose a quiet corner of the library and worked through the questions one by one."
 
-
-        "Ask sia if she wants to study together":
-            "Aarav sent sia a short message"        
+        "Ask Sia if she wants to study together":
+            "Aarav sent Sia a short message."
             s "Are you sure?"
             a "Only if we can focus on the exam."
-            s "Okey!! Thankyou"
-            "They studied together, but the old closeness was gone"
- 
+            s "Okay!! Thank you."
+            "They studied together, but the old closeness was gone."
+
     scene bg examhall
-    with fade 
-    "The exam day finally arrived. Aarav sat down and looked at the questions paper."
-    "For that next few hours, there was nothing except the sound of pens."
+    with fade
+
+    "The exam day finally arrived. Aarav sat down and looked at the question paper."
+    "For the next few hours, there was nothing except the sound of pens."
+
     show aarav normal
-    with dissolve 
-    a "Okey lets do this"
+    with dissolve
+
+    a "Okay, let's do this."
 
     scene bg school
-    with fade 
+    with fade
+
     "When the exam ended, everyone walked outside. Some students discussed answers. Others were already celebrating."
 
     show aarav happy at left
-    show sia sad blush at right 
+    show sia sad blush at right
+    with dissolve
+
     s "How was the exam?"
-    a "Better than I expected"
-    s "That's good"
+    a "Better than I expected."
+    s "That's good."
     a "How was yours?"
-    s "It was okey"
-    "There was akward silence "
+    s "It was okay."
+
+    "There was an awkward silence."
 
     menu:
-        "Wish sia good luck for remaining exams":
+        "Wish Sia good luck for the remaining exams":
             a "Good luck for the next exam."
-            s "Thankyou Aarav. You too"
-            "They walked in different direction"
-            
+            s "Thank you, Aarav. You too."
+            "They walked in different directions."
+
         "Keep the conversation short":
-            a "I should go. See you"    
-            s "Yeah see you"
-            "Aarav left without looking back"
+            a "I should go. See you."
+            s "Yeah, see you."
+            "Aarav left without looking back."
 
-        "Ask if she is doing okey":
-            a "Are you doing okey?"    
-            s "I am trying"
-            a "I hope thing work for you."
-            s "I hope the same for you"
+        "Ask if she is doing okay":
+            a "Are you doing okay?"
+            s "I am trying."
+            a "I hope things work out for you."
+            s "I hope the same for you."
 
-            "for a moment, they spoke like the old friends they used to be."
+            "For a moment, they spoke like the old friends they used to be."
 
     scene bg sunset
-    with fade        
-    "The result were announced a few weeks later. Aarav had done well."
-    show aarav happy 
-    with dissolve 
+    with fade
+
+    "The results were announced a few weeks later. Aarav had done well."
+
+    show aarav happy
+    with dissolve
+
     a "I made it."
+
     "As the school year came to an end, Aarav had one final decision to make."
 
     menu:
@@ -1233,78 +1289,91 @@ label cheating_mode:
             jump ending_final_conversation
 
 
-#Ending 1
+# Ending 1
 
-    label ending_move_on:
+label ending_move_on:
+
     scene bg schoolyard
-    with fade 
-    show aarav normal at left 
-    show sia sad blush at right 
-    with dissolve 
-    s "so this is goodbye?"
+    with fade
+
+    show aarav normal at left
+    show sia sad blush at right
+    with dissolve
+
+    s "So this is goodbye?"
     a "Not exactly. We might see each other around."
-    s "But the things won't be the same..."
-    a "IK"
+    s "But things won't be the same..."
+    a "I know."
     s "I am sorry for everything."
     a "I hope you will learn from it."
-    s "I will"
+    s "I will."
 
     "Aarav walked away. It was not the ending he once imagined."
     "But he understood that moving forward was sometimes the healthiest choice."
-    scene bg sunset
-    with fade 
 
-    "Year's later Aarav remembered the good moments without forgetting the lesson."
+    scene bg sunset
+    with fade
+
+    "Years later, Aarav remembered the good moments without forgetting the lesson."
     "He made new friends, followed his interests, and built a life of his own."
     "The past remained part of his story. It did not have to decide his future."
-return
+    "ENDING 1: MOVING ON"
+    return
 
 
-    # Ending 2
+# Ending 2
 
-    label ending_friends:
-        scene bg school
-        with fade
-        show aarav normal at left 
-        show sia sad blush at right
-        with dissolve 
+label ending_friends:
 
-        s "Thankyou for meeting me."
-        a "I wanted to talk properly"
-        s "I know I hurt you"
-        a "You did"
-        s "I don't expect things to go back to how they were."
-        a "Good Because they won't"
-        s "Can we at least be friends someday?"
-        a "Maybe. But we need time"
-        "They agreed to give each other space."
-        "There was no promise that everything would return to normal."
-        scene bg sunset 
-        with fade 
-        "Aarav learned that forgiving someone did not mean pretending nothing happened."
-        "For now, friendship was enough."
+    scene bg school
+    with fade
 
-    return    
+    show aarav normal at left
+    show sia sad blush at right
+    with dissolve
+
+    s "Thank you for meeting me."
+    a "I wanted to talk properly."
+    s "I know I hurt you."
+    a "You did."
+    s "I don't expect things to go back to how they were."
+    a "Good, because they won't."
+    s "Can we at least be friends someday?"
+    a "Maybe. But we need time."
+
+    "They agreed to give each other space."
+    "There was no promise that everything would return to normal."
+
+    scene bg sunset
+    with fade
+
+    "Aarav learned that forgiving someone did not mean pretending nothing happened."
+    "For now, friendship was enough."
+    "ENDING 2: STARTING OVER"
+    return
+
 
 # Ending 3
 
 label ending_final_conversation:
+
     scene bg schoolyard
     with fade
-    show aarav normal at left 
-    show sia sad blush at right 
+
+    show aarav normal at left
+    show sia sad blush at right
     show rohan nervous at center
-    with dissolve 
+    with dissolve
 
     a "I wanted us to talk together."
     r "I know."
     s "We both owe you an apology."
     a "I don't want another excuse. I want honesty."
     r "I should have told you what was happening."
-    s "And I should have been honest instead of avoiding the conversation"
-    a "You both made your choices"
-    s "I know"
-    r "I am sorry man"
+    s "And I should have been honest instead of avoiding the conversation."
+    a "You both made your choices."
+    s "I know."
+    r "I am sorry, man."
     a "I hope you both understand why this hurt."
 
     menu:
@@ -1313,19 +1382,22 @@ label ending_final_conversation:
             s "Take care, Aarav."
             r "You too."
             "Aarav left the schoolyard with a clearer mind."
+
         "Tell them you need time":
             a "I need time. Please don't expect me to act like nothing happened."
             s "We understand."
             r "Take all the time you need."
             "For once, nobody tried to rush the conversation."
+
         "Wish them well and move forward":
             a "I hope things work out for both of you."
             s "Thank you."
             r "Thanks, Aarav."
             "Aarav turned toward the school gate. He was ready for whatever came next."
- 
+
     scene bg sunset
     with fade
+
     "Some friendships survive difficult moments. Some relationships change forever."
     "Sometimes, the most important thing is learning when to walk forward."
     "Aarav's story was not over. It was simply entering a new chapter."
