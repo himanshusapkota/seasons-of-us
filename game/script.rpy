@@ -1231,4 +1231,103 @@ label cheating_mode:
 
         "Meet Sia and Rohan together for one final conversation":
             jump ending_final_conversation
+
+
+#Ending 1
+
+    label ending_move_on:
+    scene bg schoolyard
+    with fade 
+    show aarav normal at left 
+    show sia sad blush at right 
+    with dissolve 
+    s "so this is goodbye?"
+    a "Not exactly. We might see each other around."
+    s "But the things won't be the same..."
+    a "IK"
+    s "I am sorry for everything."
+    a "I hope you will learn from it."
+    s "I will"
+
+    "Aarav walked away. It was not the ending he once imagined."
+    "But he understood that moving forward was sometimes the healthiest choice."
+    scene bg sunset
+    with fade 
+
+    "Year's later Aarav remembered the good moments without forgetting the lesson."
+    "He made new friends, followed his interests, and built a life of his own."
+    "The past remained part of his story. It did not have to decide his future."
+return
+
+
+    # Ending 2
+
+    label ending_friends:
+        scene bg school
+        with fade
+        show aarav normal at left 
+        show sia sad blush at right
+        with dissolve 
+
+        s "Thankyou for meeting me."
+        a "I wanted to talk properly"
+        s "I know I hurt you"
+        a "You did"
+        s "I don't expect things to go back to how they were."
+        a "Good Because they won't"
+        s "Can we at least be friends someday?"
+        a "Maybe. But we need time"
+        "They agreed to give each other space."
+        "There was no promise that everything would return to normal."
+        scene bg sunset 
+        with fade 
+        "Aarav learned that forgiving someone did not mean pretending nothing happened."
+        "For now, friendship was enough."
+
+    return    
+
+# Ending 3
+
+label ending_final_conversation:
+    scene bg schoolyard
+    with fade
+    show aarav normal at left 
+    show sia sad blush at right 
+    show rohan nervous at center
+    with dissolve 
+
+    a "I wanted us to talk together."
+    r "I know."
+    s "We both owe you an apology."
+    a "I don't want another excuse. I want honesty."
+    r "I should have told you what was happening."
+    s "And I should have been honest instead of avoiding the conversation"
+    a "You both made your choices"
+    s "I know"
+    r "I am sorry man"
+    a "I hope you both understand why this hurt."
+
+    menu:
+        "End the conversation and leave":
+            a "I think that's all I needed to say."
+            s "Take care, Aarav."
+            r "You too."
+            "Aarav left the schoolyard with a clearer mind."
+        "Tell them you need time":
+            a "I need time. Please don't expect me to act like nothing happened."
+            s "We understand."
+            r "Take all the time you need."
+            "For once, nobody tried to rush the conversation."
+        "Wish them well and move forward":
+            a "I hope things work out for both of you."
+            s "Thank you."
+            r "Thanks, Aarav."
+            "Aarav turned toward the school gate. He was ready for whatever came next."
+ 
+    scene bg sunset
+    with fade
+    "Some friendships survive difficult moments. Some relationships change forever."
+    "Sometimes, the most important thing is learning when to walk forward."
+    "Aarav's story was not over. It was simply entering a new chapter."
+    "ENDING 3: THE LAST CONVERSATION"
     return
