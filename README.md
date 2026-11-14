@@ -50,8 +50,11 @@ The same start, but a different road. In Grade 9, Aarav discovers Sia with anoth
 - Playable in the browser or locally
 
 ## Screenshots
+<img width="1313" height="735" alt="image" src="https://github.com/user-attachments/assets/739f4dca-dd9e-4ae0-838f-dd273c2c8d3c" />
 
+ <img width="1281" height="942" alt="image" src="https://github.com/user-attachments/assets/24edfe66-7003-470a-aa7d-237bbe1028c9" />
 
+ <img width="1272" height="677" alt="image" src="https://github.com/user-attachments/assets/454ec725-4b4e-4914-831d-c282509a8679" />
 
 
 ## Built With
